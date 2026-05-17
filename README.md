@@ -50,7 +50,7 @@ Tools        →   Git · GitHub · VS Code
 ## 📬 Reach Me
 
 - **Email:** 369rupesh369@gmail.com
-- **LinkedIn:** [linkedin.com/in/rupesh-pradhan](www.linkedin.com/in/rupesh-pradhan-847132282)
+- **LinkedIn:** [linkedin.com/in/rupesh-pradhan]([www.linkedin.com/in/rupesh-pradhan-847132282](https://www.linkedin.com/in/rupesh-pradhan-847132282/))
 - **Portfolio:** [rupeshpradhan369.github.io](https://rupeshpradhan369.github.io)
 
 ---
